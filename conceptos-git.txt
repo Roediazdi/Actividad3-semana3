@@ -1,0 +1,8 @@
+REPOSITORIO: Es un modelo de almacenamiento y manejo de documentos, permite acceso, recuperación y restauración de datos digitales. 
+Su enfoque principal es entregar información accesible y de facil manejo para el publico en general.
+
+COMMIT: El punto clave de los commits es como un historial guardado instantaneamente, permite restaurar el archivo las veces que sean 
+necesarias. En programación el commit es un "punto de control" que se configura de acuerdo al comando que se use.
+
+PUSH: Traduce pulsar un botón lo que significa enviar un código a un repositorio, se puede crear un nuevo código con el agregado de git,
+el servidor se configura para enviar alarmas o notificaciones de actualizaciones o alertas 
